@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+james:
+  name: "James' sweet wine"
+  price: 15.0
+  variety: "Pinot Noir"
+  appellation: "Burgandy"
+  winery: "James' Winery"
+  comments: "Great!"
+  dateTasted: "1/1/2001"
